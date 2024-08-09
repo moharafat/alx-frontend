@@ -180,7 +180,7 @@ ul.row {
   padding: 0.5rem;
 }
 
-.row:after {
+.row::after {
   content: ""; /* No content */
   display: table; /* Displayed as a table */
   clear: both; /* Clear any floating elements on either side */
