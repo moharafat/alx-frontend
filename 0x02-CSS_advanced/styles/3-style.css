@@ -11,11 +11,11 @@ html {
 }
 
 body {
-  color: var(--color-black);
+  color: var(--text-color);
 }
 
 a {
-  color: var(--color-black);
+  color: var(--text-color);
 }
 
 .visually-hidden {
